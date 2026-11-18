@@ -688,8 +688,12 @@
       answer: 'Sản phẩm Giấm Điều được đóng trong **chai nhựa rPET tái chế 100% thân thiện môi trường** (an toàn thực phẩm, không thôi nhiễm, bền nhẹ và giảm phát thải carbon so với nhựa nguyên sinh). Trên mỗi chai đều có tem niêm phong và mã QR truy xuất nguồn gốc.'
     },
     {
-      keywords: ['detox', '14 ngay', 'uong', 'cach dung', 'buoi sang'],
-      answer: 'Công thức tham gia thử thách **"14 ngày thay đổi hệ tiêu hóa"** cùng Giấm Điều:\n• **15ml Giấm Điều** + **250ml nước ấm (35-40°C)** + **1 thìa mật ong** + **1 thìa hạt chia ngâm nở** + vài lát chanh/bạc hà.\n• Uống mỗi buổi sáng trước bữa ăn 15–20 phút để khởi động hệ vi sinh và hỗ trợ tiêu hóa nhẹ nhàng!'
+      keywords: ['7 ngay', 'bien hoa bep nha', 'thu thach', 'vaobepcunggiamdieu', 'quay clip', 'tiktok', 'reels', 'shorts', 'video'],
+      answer: 'Thử thách **"7 Ngày Biến Hóa Bếp Nhà"** là sân khấu sáng tạo ẩm thực cùng Giấm Điều DATVIET\'S FARM:\n\n• **Nội dung:** Khách hàng và người tham gia quay clip sáng tạo cách chế biến các món ăn từ giấm điều sao cho độc đáo, ngon miệng và bắt mắt nhất (từ món salad thanh mát, món chính sốt chua ngọt cho đến việc kết hợp với các nguyên liệu bất ngờ).\n• **Cách triển khai:** Quay video ngắn (TikTok, Reels, Shorts) ghi lại công thức và thành phẩm món ăn, đăng tải kèm hashtag **#VaoBepCungGiamDieu** để kết nối các bài dự thi, tạo làn sóng thảo luận và khoe thành quả nấu nướng trên mạng xã hội!'
+    },
+    {
+      keywords: ['detox', 'uong', 'cach dung', 'buoi sang'],
+      answer: 'Cách pha nước uống Detox thanh lọc cơ thể mỗi sáng cùng Giấm Điều:\n• **15ml Giấm Điều** + **250ml nước ấm (35-40°C)** + **1 thìa mật ong** + **1 thìa hạt chia ngâm nở** + vài lát chanh tươi hoặc bạc hà.\n• Uống trước bữa ăn sáng 15–20 phút giúp đánh thức năng lượng và hỗ trợ hệ tiêu hóa nhẹ nhàng!'
     },
     {
       keywords: ['mon an', 'nau an', 'cong thuc', 'salad', 'nuoc cham', 'goi cuon', 'kem vani', 'goi ngo sen', 'hai san'],
@@ -757,7 +761,7 @@
 
       <div class="chat-chips-area" id="chatChipsArea">
         <button type="button" class="chat-chip" data-query="Giấm điều có gì vượt trội?">🌿 Giấm điều có gì vượt trội?</button>
-        <button type="button" class="chat-chip" data-query="Thử thách 14 ngày detox dùng thế nào?">🥤 Cách dùng Detox 14 ngày</button>
+        <button type="button" class="chat-chip" data-query="Thử thách 7 Ngày Biến Hóa Bếp Nhà là gì?">🎬 Thử thách #VaoBepCungGiamDieu</button>
         <button type="button" class="chat-chip" data-query="Giá bán và các mã giảm giá?">💰 Giá bán &amp; Mã giảm giá</button>
         <button type="button" class="chat-chip" data-query="Chai nhựa rPET là gì?">♻️ Chai nhựa rPET</button>
         <button type="button" class="chat-chip" data-query="Gợi ý món ăn ngon từ giấm điều?">🥗 Gợi ý món ngon</button>
