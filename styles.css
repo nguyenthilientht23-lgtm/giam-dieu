@@ -275,17 +275,19 @@ button, input, select {
   display: inline-flex;
   align-items: center;
   height: 54px;
-  overflow: hidden;
   flex-shrink: 0;
 }
 
 .brand-logo-img {
-  height: 68px;
+  height: 50px;
   width: auto;
+  max-width: 175px;
   object-fit: contain;
-  /* Blends exact cream background of logo.jpg seamlessly into header */
-  mix-blend-mode: multiply;
-  transform: scale(1.06);
+  transition: transform var(--transition);
+}
+
+.brand-logo:hover .brand-logo-img {
+  transform: scale(1.03);
 }
 
 .main-nav {
@@ -1808,7 +1810,8 @@ button, input, select {
 .footer-logo-box img {
   height: 44px;
   width: auto;
-  mix-blend-mode: multiply;
+  max-width: 160px;
+  object-fit: contain;
 }
 
 .footer-tagline {
